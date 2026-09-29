@@ -93,4 +93,3 @@ Render dashboard:
 
 - `screenshots/dashboard.png` — Render Blueprint với `day12-agent` Deployed và `day12-redis` Available
 - `screenshots/health.png` — Chrome chụp trực tiếp response thật của `/health`
-
